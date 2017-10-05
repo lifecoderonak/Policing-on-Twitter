@@ -1,0 +1,8 @@
+Libraries Used
+
+1. Tweepy (Python Library for collecting Tweets) 
+2. Matplotlib Library for plotting histograms, time-series curves and pie charts
+3. JSON Library
+4. DateTime Library
+
+Run different files for both boston and blr city police. Marked as q1, q21, q22, q23, q24, q3 etc.
